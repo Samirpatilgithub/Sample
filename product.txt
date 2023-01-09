@@ -1,0 +1,4 @@
+mobile
+battery
+headphones
+charger
